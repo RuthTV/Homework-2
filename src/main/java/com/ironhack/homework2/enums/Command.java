@@ -1,0 +1,7 @@
+package com.ironhack.homework2.enums;
+
+public enum Command {
+    //Define the possible commands
+    NEW_LEAD, SHOW_LEADS, SHOW_CONTACTS, SHOW_OPPORTUNITIES, SHOW_ACCOUNTS, LOOKUP_LEAD, LOOKUP_ACCOUNT,
+    LOOKUP_OPPORTUNITY, LOOKUP_CONTACT, CONVERT, CLOSE_LOST, CLOSE_WON, HELP, QUIT, CONTINUE;
+}
